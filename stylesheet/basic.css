@@ -11,6 +11,7 @@
     padding: 0;
     margin: 0;
     list-style-type: none;
+    margin: 0 auto;
 }
 
 .menu li {
@@ -35,7 +36,7 @@
 }
 
 .menu li a:hover {
-    background: 555;
+    background: #555;
     background-image: -moz-linear-gradient(top, #555 0%, #444 50%, #333 50%, #444 100%);
 }
 
