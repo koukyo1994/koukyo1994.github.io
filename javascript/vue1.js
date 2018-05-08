@@ -1,8 +1,6 @@
-console.log("I'm working");
-
-var app1 = new Vue({
-  el: '#app-1',
+var app = new Vue({
+  el: '#app',
   data: {
-    message: "Hello, Vue!"
+    message: 'Hello Vue!'
   }
 })
